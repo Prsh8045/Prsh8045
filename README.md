@@ -1,4 +1,4 @@
-![Prashant](https://github.com/prsh8045/Git_profile/blob/main/assets/Prashant_banner.jpeg)
+![Prashant](https://github.com/prsh8045/Git_profile/blob/main/assests/Prashant_banner.jpeg)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Prashant</h2>
 
@@ -50,7 +50,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="github.com/Prsh8045"><img src="https://img.shields.io/badge/-Amit%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/prashantprs12"><img src="https://img.shields.io/badge/-Prashant%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:prashantprs12@gmail.com"><img src="https://img.shields.io/badge/-prashantprs12@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 
