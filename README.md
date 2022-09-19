@@ -1,4 +1,3 @@
-![Prashant](https://github.com/prsh8045/Git_profile/blob/main/assests/Prashant_banner.jpeg)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Prashant</h2>
 
