@@ -12,7 +12,7 @@
 ✉️ &nbsp;You can shoot me an email at prashantprs12@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://github.com/Prsh8045/Prsh8045/blob/main/Assest/My_resume.pdf) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="./asset/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="./Assest/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
