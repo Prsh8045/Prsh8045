@@ -1,5 +1,5 @@
-![Prashant](https://github.com/Prsh8045/Prsh8045/blob/main/assets/Prashant_banner.jpeg)
-<img alt="Night Coding" src="./asset/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Prashant</h2>
+![Prashant](https://github.com/Prsh8045/Prsh8045/blob/main/Assest/Prashant_banner.jpeg)
+<img alt="Night Coding" src="./Assest/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Prashant</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Prashant -->
 
@@ -10,7 +10,7 @@
 💡 &nbsp; creating Intuitive, Captivative and Dynamic user experiences.\
 ✍️ &nbsp;In my free time I love to explore new technologies and develop software solutions & quick hacks.\
 ✉️ &nbsp;You can shoot me an email at prashantprs12@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://github.com/Prsh8045/Prsh8045/blob/main/asset/My_resume.pdf) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://github.com/Prsh8045/Prsh8045/blob/main/Assest/My_resume.pdf) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="./asset/Night-Coding.gif" align="right"/>
 
