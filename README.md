@@ -1,4 +1,4 @@
-![Prashant](https://github.com/Prsh8045/Prsh8045/blob/main/Assest/Prashant_banner.jpeg)
+![Prashant](https://github.com/Prsh8045/Prsh8045/blob/main/Assest/Prashant_banner.png)
 <img alt="Night Coding" src="./Assest/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Prashant</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Prashant -->
