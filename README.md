@@ -5,12 +5,12 @@
 
 ### 👨🏻‍💻 &nbsp;Who Am I ??
 
-🎓 &nbsp;I'm an experienced Full-stack Developer for Rsn Ginfo Solutions Pvt.ltd. in Hyderabad,Telangana.\
+🎓 &nbsp;I'm an experienced Full-stack Developer for RSN Ginfo Solutions Pvt.ltd in Hyderabad,Telangana.\
 🌱 &nbsp;I am tech savvy fond of new technologies and have serious passion for UI effects, and \
 💡 &nbsp; creating Intuitive, Captivative and Dynamic user experiences.\
 ✍️ &nbsp;In my free time I love to explore new technologies and develop software solutions & quick hacks.\
 ✉️ &nbsp;You can shoot me an email at prashantprs12@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://github.com/Prsh8045/Prsh8045/blob/main/Assest/Prashant-Frontend_Developer.pdf) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://github.com/Prsh8045/Prsh8045/blob/main/Assest/Prashant_SDE (2).pdf) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="./Assest/Night-Coding.gif" align="right"/>
 
