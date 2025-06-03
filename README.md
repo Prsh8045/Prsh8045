@@ -5,7 +5,7 @@
 
 ### 👨🏻‍💻 &nbsp;Who Am I ??
 
-🎓 &nbsp;I'm an experienced Full-stack Developer for CodingExpo Technology Pvt. Ltd. in Noida Uttar Pradesh.\
+🎓 &nbsp;I'm an experienced Full-stack Developer for Rsn Ginfo Solutions Pvt.ltd. in Hyderabad,Telangana.\
 🌱 &nbsp;I am tech savvy fond of new technologies and have serious passion for UI effects, and \
 💡 &nbsp; creating Intuitive, Captivative and Dynamic user experiences.\
 ✍️ &nbsp;In my free time I love to explore new technologies and develop software solutions & quick hacks.\
